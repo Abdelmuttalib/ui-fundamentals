@@ -111,3 +111,4 @@ Defaulted to true, you can uncomment the `mode='jit'` in `/tailwind.config.js`
 
 ### Default Styles
 There are default styles for responsive heading sizes, and `.layout` to support a max-width for larger screen size.
+# ui-fundamentals
